@@ -1,0 +1,15 @@
+.root {
+  cursor: pointer;
+  background-color: #efefe4;
+  &:hover {
+    background-color: #e2e2d7;
+  }
+}
+
+.isHoliday {
+  background-color: #d4eed4;
+}
+
+.isOutOfMonth {
+  opacity: 0.25;
+}

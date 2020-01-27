@@ -1,0 +1,8 @@
+.root {
+  display: flex;
+  margin-bottom: 2px;
+  justify-content: center;
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
